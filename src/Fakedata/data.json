@@ -1,0 +1,26 @@
+[ 
+    {
+        "index": 0,
+        "price": "$100",
+        "picture": "https://freepngimg.com/thumb/bike/23422-1-hero-bike-transparent-image-thumb.png",
+        "name": "Bike"
+      },
+      {
+        "index": 1,
+        "price": "$250",
+        "picture": "https://vectorforfree.com/wp-content/uploads/2019/04/BMW_Car_PNG_VectorForFree.jpg",
+        "name": "Car"
+      },
+      {
+        "index": 2,
+        "price": "$180",
+        "picture": "https://pngimg.com/uploads/bus/bus_PNG8618.png",
+        "name": "bus"
+      },
+      {
+        "index": 3,
+        "price": "$120",
+        "picture": "https://i.pinimg.com/originals/d5/f5/05/d5f505d2b2f76929a84c35ef39a151f1.png",
+        "name": "Train"
+      }
+]
